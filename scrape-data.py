@@ -3,7 +3,7 @@ import codecs
 import my_keys
 import sys
 
-# This makes strange characters work with Windows
+# This makes strange characters work with Windows ## comment out line 7 for Macs
 sys.stdout.reconfigure(encoding='utf-8')
 
 # Get the authentication keys from my_keys.py
