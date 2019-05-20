@@ -3,7 +3,7 @@
 # Scraping Data Using the Streaming API
 
 1\. If you've followed the steps above, your developer key and token will automatically be used to authenticate to the Twitter Streaming API. If you haven't added your developer key and access token to my_keys.py, follow the instructions under "Getting your API key" above.  
-2\. Open the scrape-data.py file in this repository.  If you are a Mac user, be sure that line 7 is commented out (has a # at the beginning).  If you are a Windows user, be sure to take out the # sign at the beginning of line 7.
+2\. Open the scrape-data.py file in this repository.  If you are a Mac user, be sure that line 7 is commented out (has a # at the beginning).  If you are a Windows user, be sure to take out the # sign at the beginning of line 7./
 3\. Scroll to the last line of the file, which looks like this:
 
 ```python
