@@ -4,6 +4,7 @@ import my_keys
 import sys
 
 # This makes strange characters work with Windows--comment out line 7 for Macs
+# Fair warning -- this only works with Python 3.7 or higher on Windows, and even then, it may still return errors for some computers.
 sys.stdout.reconfigure(encoding='utf-8')
 
 # Get the authentication keys from my_keys.py
